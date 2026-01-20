@@ -17,5 +17,5 @@ The Acceptance Criteria:
 6. Running this script multiple times will always replace the old output file with a new one since the output file name is always the same. There will be no duplicate files, and the original files are untouched, so subsequent loads and runs should be identical to the first
 7. SQL queries answering most of the prompts are inside the query.py script
 
-Final Thoughts
+Final Thoughts:
 If given more time I would work on the acceptance criteria I could not solve and I would also get clarification on what 'region' and 'battery' capacity are
